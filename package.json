@@ -1,0 +1,23 @@
+{
+  "name": "ringku-portfolio",
+  "version": "1.0.0",
+  "description": "Full stack developer Ringku Rahman portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server/index.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Ringku Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "next": "^10.0.6",
+    "node-sass": "^5.0.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.0",
+    "react-dom": "^17.0.1"
+  }
+}
